@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32in"
+   height="18in"
+   viewBox="0 0 812.80001 457.20001"
+   version="1.1"
+   id="svg8757"
+   sodipodi:docname="side_tiroir_ext.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8759"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     showguides="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="597"
+     inkscape:cy="695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svgGroup-6" />
+  <defs
+     id="defs8754">
+    <rect
+       x="519.33885"
+       y="95.76461"
+       width="554.32973"
+       height="134.43876"
+       id="rect15871" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect11562"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,4.9921384 C 0,2.236478 2.236478,0 4.9921384,0 c 2.7556604,0 4.9921385,2.236478 4.9921385,4.9921384 0,2.7556604 -2.2364781,4.9921385 -4.9921385,4.9921385 C 2.236478,9.9842769 0,7.7477988 0,4.9921384 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect11492"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,4.9921384 C 0,2.236478 2.236478,0 4.9921384,0 c 2.7556604,0 4.9921385,2.236478 4.9921385,4.9921384 0,2.7556604 -2.2364781,4.9921385 -4.9921385,4.9921385 C 2.236478,9.9842769 0,7.7477988 0,4.9921384 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect11488"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,4.9921384 C 0,2.236478 2.236478,0 4.9921384,0 c 2.7556604,0 4.9921385,2.236478 4.9921385,4.9921384 0,2.7556604 -2.2364781,4.9921385 -4.9921385,4.9921385 C 2.236478,9.9842769 0,7.7477988 0,4.9921384 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="svgGroup"
+       stroke-linecap="round"
+       fill-rule="evenodd"
+       font-size="12px"
+       stroke="#000"
+       stroke-width="0.25mm"
+       fill="none"
+       style="fill:none;stroke:#000000;stroke-width:0.25mm"
+       transform="matrix(25.4,0,0,25.4,-545.38846,-236.84388)">
+      <g
+         id="svgGroup-8"
+         stroke-linecap="round"
+         fill-rule="evenodd"
+         font-size="12px"
+         stroke="#000"
+         stroke-width="0.25mm"
+         fill="none"
+         style="fill:none;stroke:#000000;stroke-width:0.25mm"
+         transform="translate(10.883333,-4.4322598)">
+        <g
+           id="svgGroup-6"
+           stroke-linecap="round"
+           fill-rule="evenodd"
+           font-size="12px"
+           stroke="#000"
+           stroke-width="0.25mm"
+           fill="none"
+           style="fill:none;stroke:#000000;stroke-width:0.25mm"
+           transform="translate(9.3078826,19.620167)">
+          <path
+             style="fill:none;stroke:#ff0000;stroke-width:0.001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+             d="M 3.895877,-2.6945639 V -2.930564 h 1.4600005 v 0.2360001 H 6.815878 V -2.930564 h 1.4600004 v 0.2360001 h 1.46 V -2.930564 h 1.4599996 v 0.2360001 h 1.460001 V -2.930564 h 1.46 v 0.2360001 l 1.984502,1.6e-6 V -5.1573665 H 1.9503766 v 2.4628042 z"
+             id="path11564" />
+          <path
+             style="fill:none;stroke:#ff0000;stroke-width:0.001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 2.0556858,1.6433638 -0.2087897,-1.6e-6 V 0.6219461 H 1.6105686 V -0.84008067 H 1.8468961 V -1.8614968 h 2.1569903 v 0.2363277 h 1.4620269 v -0.2363277 h 1.4620268 v 0.2363277 h 1.4620268 v -0.2363277 h 1.4620267 v 0.2363277 H 11.31402 v -0.2363277 h 1.462027 v 0.2363277 h 1.462026 v -0.2363277 h 2.156991 v 1.02141613 h 0.236327 V 0.6219461 h -0.236327 v 1.0214161 l -0.169734,1.6e-6 V -0.8228587 H 2.0556858 Z"
+             id="path11679" />
+          <rect
+             style="fill:none;fill-opacity:0.5;stroke:#ff0000;stroke-width:0.001;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect12635"
+             width="2.9847994"
+             height="0.13007604"
+             x="7.5781393"
+             y="-3.9803419" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.01041667,0,0,0.01041667,1.8754631,-5.7866105)"
+             id="text15869"
+             style="font-style:normal;font-weight:normal;font-size:53.3333px;line-height:1.35;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15871);fill:#000000;fill-opacity:1;stroke:none"><tspan
+               x="519.33984"
+               y="147.08793"
+               id="tspan33546"><tspan
+                 style="font-weight:600;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style Semi-Bold'"
+                 id="tspan33544">CHESS BRAS</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

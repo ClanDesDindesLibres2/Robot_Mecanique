@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36in"
+   height="18in"
+   viewBox="0 0 914.39997 457.19999"
+   version="1.1"
+   id="svg15924"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="bottom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15926"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="36mm"
+     units="in"
+     inkscape:zoom="0.19197882"
+     inkscape:cx="2549.7605"
+     inkscape:cy="1153.7731"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svgGroup" />
+  <defs
+     id="defs15921" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="svgGroup"
+       stroke-linecap="round"
+       fill-rule="evenodd"
+       font-size="12px"
+       stroke="#000"
+       stroke-width="0.25mm"
+       fill="none"
+       style="fill:none;stroke:#000000;stroke-width:0.25mm"
+       transform="matrix(25.4,0,0,25.4,-194.98358,-98.680308)">
+      <path
+         d="m 9.1349029,5.3906486 v 2.154 h -0.236 v 1.46 h 0.236 v 1.4600004 h -0.236 v 1.46 h 0.236 v 1.46 h -0.236 v 1.46 h 0.236 v 1.46 h -0.236 v 1.46 h 0.236 v 1.46 0.694 h 2.1540001 v 0.236 h 1.46 v -0.236 h 1.46 v 0.236 h 1.46 v -0.236 h 1.46 v 0.236 h 1.46 v -0.236 h 1.46 v 0.236 h 1.46 v -0.236 h 1.46 0.694 v -2.154 h 0.236 v -1.46 h -0.236 v -1.46 h 0.236 v -1.46 h -0.236 v -1.46 h 0.236 v -1.46 h -0.236 V 9.0046486 h 0.236 v -1.46 h -0.236 v -1.46 -0.694 h -2.154 v -0.236 h -1.46 v 0.236 h -1.46 v -0.236 h -1.46 v 0.236 h -1.46 v -0.236 h -1.46 v 0.236 h -1.46 v -0.236 h -1.46 v 0.236 H 9.8289029 Z"
+         id="bottom_outsideCutPath"
+         stroke="#FF0000"
+         stroke-width="0.1"
+         style="stroke:#ff0000;stroke-width:0.1"
+         vector-effect="non-scaling-stroke" />
+    </g>
+  </g>
+</svg>
