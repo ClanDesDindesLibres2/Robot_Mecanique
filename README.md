@@ -15,8 +15,8 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 * The last side with the drawer is cut with the file side_tiroir_ext. It is glued to the outside face of the previously assembled drawer.
 * The different pieces fit together and are glued together using wood glue EXCEPT for the drawer door where it is written *Chess Bras* and the top of the box which allows access to the interior.
 * These parts being removable, they are not fixed.
-##### Drawer
-* The pieces are cut from 1/8 inch board.
-* All the pieces fit together and are glued with wood glue.
+  #### Drawer
+  * The pieces are cut from 1/8 inch board.
+  * All the pieces fit together and are glued with wood glue.
 
 ### 2.2- Electrical of the chessboard
