@@ -14,7 +14,7 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 * The sides and the bottom are cut with the [sides](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides.svg)  and [bottom](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/bottom.svg)  files.
 * The last part to this wooden box is a drawer. *ADDITIONAL*
 * The front side of the wooden box must be remaid with the file [sides_tiroir_ext](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides_tiroir_ext.svg).
-* The following [instructions](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/top.svg) explain the conception of the drawer inside the box.
+* The following [instructions](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/README.md#drawer) explain the conception of the drawer inside the box.
 * The different pieces fit together and are glued together using wood glue EXCEPT for the following:
    * The drawer door to the wooden box where it is written *Chess Bras*
    * The top of the box with the sides of the wooden box which allows access to the interior.
