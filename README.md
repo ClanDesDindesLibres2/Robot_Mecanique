@@ -3,7 +3,7 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 
 ## 1- Robotic Bras
 ### 1.1- Mechanics of the robotic arm
-### 1.2- Electric robotic arm
+### 1.2- Electrical parts of the robotic arm
 
 ## 2- Chessboard
 ### 2.1- Mechanics of the chessboard
@@ -25,4 +25,4 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 * All the pieces fit together and are glued with wood glue.
 * The front of the drawer is glued to the interior of the outside face, [sides_tiroir_ext](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides_tiroir_ext.svg), of the wooden box. 
 
-### 2.2- Electrical of the chessboard
+### 2.2- Electrical parts of the chessboard
