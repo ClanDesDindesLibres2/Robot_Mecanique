@@ -15,12 +15,13 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 * *Additional* The last part to this wooden box is a drawer.
 * The front side of the wooden box must be remaid with the file [sides_tiroir_ext](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides_tiroir_ext.svg).
 * The following instructions explain the conception of the drawer inside the box.
-    #### Drawer
-    * The pieces are cut from 1/8 inch board.
-    * The drawer does not contain a top.
-    * The sides and the bottom of the drawer are cut with the file [sides_tiroir](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides_tiroir.svg) and [fond_tiroir](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/fond_tiroir.svg) respectively.
-    * All the pieces fit together and are glued with wood glue.
-    * The front of the drawer is glued to the interior of the outside face, [sides_tiroir_ext](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides_tiroir_ext.svg), of the wooden box. 
+        #### Drawer
+        * The pieces are cut from 1/8 inch board.
+        * The drawer does not contain a top.
+        * The sides and the bottom of the drawer are cut with the file [sides_tiroir](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides_tiroir.svg) and [fond_tiroir](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/fond_tiroir.svg) respectively.
+        * All the pieces fit together and are glued with wood glue.
+        * The front of the drawer is glued to the interior of the outside face, [sides_tiroir_ext](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides_tiroir_ext.svg), of the wooden box. 
+    
 * The different pieces fit together and are glued together using wood glue EXCEPT for the following:
    * The drawer door to the wooden box where it is written *Chess Bras*
    * The top of the box with the sides of the wooden box which allows access to the interior.
