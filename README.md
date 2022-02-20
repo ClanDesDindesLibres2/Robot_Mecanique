@@ -1,12 +1,12 @@
 # Mechanics: Robotic arm and Chessboard
-Our project aims to **create a robotic chess opponent**. <br> To achieve this, a unique chessboard and a robotic arm were designed. <br> The design of these two **mechanical aspects** includes several **electrical aspects** as well.
+Our project aims to **create a robotic chess opponent**. <br> To achieve this, a unique chessboard and a robotic arm were designed. <br> The design of these two **MECHANICAL aspects** includes several **ELECTRICAL aspects** as well.
 
-## 1- Robotic Bras
-### 1.1- Mechanics of the robotic arm
+## 1- Robotic arm
+### 1.1- Mechanical parts of the robotic arm
 ### 1.2- Electrical parts of the robotic arm
 
 ## 2- Chessboard
-### 2.1- Mechanics of the chessboard
+### 2.1- Mechanical parts of the chessboard
 #### Wooden Box
 * The pieces are cut from a 1/4 inch board.
 * The top of the box is cut and engraved with the file [top](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/top.svg).
@@ -26,3 +26,11 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 * The front of the drawer is glued to the interior of the outside face, [sides_tiroir_ext](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/sides_tiroir_ext.svg), of the wooden box. 
 
 ### 2.2- Electrical parts of the chessboard
+#### Circuit of switches
+The circuit of switches is located below the top of the chessboard. To achieve this circuit some parts need to be bought.
+* Parts to acquire:
+  * Switches
+  * Capacitors
+  * Glue gun
+* To assemble the circuit, follow the electrical [plan](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Electrical/Board/Circuit_switches.ms14)
+#### Button and RGB led
