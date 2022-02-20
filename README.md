@@ -1,14 +1,10 @@
-# Mécanique: Bras robotique et Échiquier
-Notre projet à pour but **d'automatiser un adversaire d'échec**. <br> Pour réaliser ceci, un échiquier et un bras robotique ont étés conçu. <br> La conception de ces deux **aspects mécaniques** comprennent plusieurs **aspects électriques** aussi.
+# Mechanics: Robotic arm and Chessboard
+Our project aims to **create a robotic chess opponent**. <br> To achieve this, a unique chessboard and a robotic arm were designed. <br> The design of these two **mechanical aspects** includes several **electrical aspects** as well.
 
-## 1- Bras robotique
-### 1.1- Mécanique du bras robotique
-### 1.2- Mécanique de la boîte en bois de la base du robot
-### 1.3- Électrique du bras robotique
+## 1- Robotic Bras
+### 1.1- Mechanics of the robotic arm
+### 1.2- Electric robotic arm
 
-## 2- Échiquier
-### 2.1- Mécanique de l'échiquier
-### 2.2- Électrique de l'échiquier
-
-
-
+## 2- Chessboard
+### 2.1- Mechanics of the chessboard
+### 2.2- Electrical of the chessboard
