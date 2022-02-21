@@ -54,11 +54,12 @@ The gripper uses one motor: a **servor motor**.
 #### Circuit of switches
 The circuit of switches is located below the top of the chessboard. To achieve this circuit some parts need to be bought.
 * Parts to acquire:
-  * Switches
-  * Capacitors
+  * 75 Switches: SWITCH REED SPST-N0 1A 125V, STANDEX-MEDER ELECTRONICS, SW GP560/15-20 AT
+  * 100 Diodes: DIODE GEN PURP 400V 1A D041, DIODES INCORPORATED (VA)/ 1N4936-T
   * Glue gun
 * To assemble the circuit, follow the electrical [plan](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Electrical/Board/Circuit_switches.ms14)
 #### Button and RGB led
+*To be implemented*
 
 ## <a id="License"></a>License
 This project is licenced under a  [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/SPUdeS/SPUdeS/blob/main/LICENSE) license.
