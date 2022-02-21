@@ -49,3 +49,6 @@ The circuit of switches is located below the top of the chessboard. To achieve t
   * Glue gun
 * To assemble the circuit, follow the electrical [plan](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Electrical/Board/Circuit_switches.ms14)
 #### Button and RGB led
+
+## <a id="License"></a>License
+This project is licenced under a  [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/SPUdeS/SPUdeS/blob/main/LICENSE) license.
