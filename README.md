@@ -4,10 +4,17 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 ## 1- Robotic arm
 ### 1.1- Mechanical parts of the robotic arm
 #### Robotic arm
-The conception of the robotic arm is made in SolidWorks (PUT LINK)
-Each part of the robotic arm are printed in plastic with a 3D printer
+The conception of the robotic arm is made in SolidWorks (PUT LINK). <br>
+Each part of the robotic arm is printed in plastic with a 3D printer. <br>
+Two different types of motors are used with this robotic arm. Both are Dynamixel X-Series, XL430-W250 and XM430-W350.
 * All parts to print can be found in the [arm] (https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/Arm2.0) folder.
 * To assemble the arm, follow the [instruction manual](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Assembly%20manual.pdf).
+#### Gripper for robotic arm
+The gripper is put at the end of the robotic arm. His purpose is to pickup chess pieces. <br>
+Each part of the gripper is printed in plastic with a 3D printer. <br>
+The gripper uses one motor: a servor motor.
+
+https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/gripper
 #### Wooden Box for the base of the robot
 * The pieces are cut from a 1/8 inch board with a laser cutter.
 * The top and the sides of the box are cut with the file [WoodenBox_robot_base](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/WoodenBox_robot_base.svg)
