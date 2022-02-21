@@ -7,8 +7,8 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 The conception of the robotic arm is made in SolidWorks (PUT LINK). <br>
 Each part of the robotic arm is printed in plastic with a 3D printer. <br>
 Two different types of motors are used with this robotic arm. Both are Dynamixel X-Series, XL430-W250 and XM430-W350.
-* All parts to print can be found in the [arm] (https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/Arm2.0) folder.
-* To assemble the arm, follow the [instruction manual](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Assembly%20manual.pdf).
+* All parts to print can be found in the [arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/Arm2.0) folder.
+* To assemble the arm, follow the [instruction manual(https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Assembly%20manual.pdf).
 #### Gripper for robotic arm
 The gripper is put at the end of the robotic arm. His purpose is to pickup chess pieces. <br>
 Each part of the gripper is printed in plastic with a 3D printer. <br>
