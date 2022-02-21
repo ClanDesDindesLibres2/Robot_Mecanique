@@ -6,8 +6,8 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
 #### Robotic arm
 The conception of the robotic arm is made in SolidWorks (PUT LINK)
 Each part of the robotic arm are printed in plastic with a 3D printer
-* All parts to print can be found in the [arm] folder (https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/Arm2.0)
-* To assemble the arm, follow the [instruction manual](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Assembly%20manual.pdf)
+* All parts to print can be found in the [arm] (https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/Arm2.0) folder.
+* To assemble the arm, follow the [instruction manual](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Assembly%20manual.pdf).
 #### Wooden Box for the base of the robot
 * The pieces are cut from a 1/8 inch board with a laser cutter.
 * The top and the sides of the box are cut with the file [WoodenBox_robot_base](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/WoodenBox_robot_base.svg)
