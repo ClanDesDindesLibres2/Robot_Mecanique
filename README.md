@@ -1,18 +1,15 @@
 # Mechanics: Robotic arm and Chessboard
 Our project aims to **create a robotic chess opponent**. <br> To achieve this, a unique chessboard and a robotic arm were designed. <br> The design of these two **MECHANICAL aspects** includes several **ELECTRICAL aspects** as well.
 ## Table of Contents
-- [Robotic arm](#Setup)
-  - [Mechanical parts of the robotic arm](#Documentation)
-   - [Arm](#Operation)
-   - [Gripper](#Resources)
-   - [Wooden Box](#Computer)
-- [Chess Board](#Controller)
-    - [Mechanical parts of the robotic arm](#Servo)
-     - [Wooden Box](#Power)
-     - [Drawer](#Rods)
-    - [Electrical parts of the chessboard](#Servo)
-     - [Circuit of switches](#Power)
-     - [Button and RGB led](#Power)
+- [Robotic arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#1--robotic-arm)
+   - [Arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#arm)
+   - [Gripper](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#gripper)
+   - [Wooden Box](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#wooden-box)
+- [Chess Board](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#2--chessboard)
+     - [Wooden Box](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#wooden-box-1)
+     - [Drawer](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#drawer)
+     - [Circuit of switches](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#circuit-of-switches)
+     - [Button and RGB led](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#button-and-rgb-led)
 ## 1- Robotic arm
 ### 1.1- Mechanical parts of the robotic arm
 #### Arm
