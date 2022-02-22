@@ -56,6 +56,7 @@ The circuit of switches is located below the top of the chessboard. To achieve t
 * Parts to acquire:
   * 75 Switches: SWITCH REED SPST-N0 1A 125V, STANDEX-MEDER ELECTRONICS, SW GP560/15-20 AT
   * 100 Diodes: DIODE GEN PURP 400V 1A D041, DIODES INCORPORATED (VA)/ 1N4936-T
+  * 32 Magnets 8mm dia.X 3mm
   * Glue gun
 * To assemble the circuit, follow the electrical [plan](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Electrical/Board/Circuit_switches.ms14)
 #### Button and RGB led
