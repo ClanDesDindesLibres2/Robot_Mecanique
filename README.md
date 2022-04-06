@@ -59,11 +59,15 @@ The circuit of switches is located below the top of the chessboard. To achieve t
   * 32 Magnets 8mm dia.X 3mm
   * Glue gun
 * To assemble the circuit, follow the electrical [plan](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Electrical/Board/Circuit_switches.ms14)
-#### Button and RGB led
+#### Button and RGB LED
 On the board, the led and the button can be found. The led is connected to the Pi and the button is connected to the Arduino.
 * Parts to acquire:
-  * Led RGB
+  * LED RGB
+  * Resistances:
+     -Two times 100 ohms
+     -200 ohms
   * Miniature tactile switch 6X6X6mm
-
+The LED needs resistances. For the red one a 220 ohms, for the green one a 100 ohms and for the blue one a 100 ohms also is needed.
+The LED's pins in the Rasberry Pi are 17 for the red one, 27 for the green one and 22 for the blue one.
 ## <a id="License"></a>License
 This project is licenced under a  [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/SPUdeS/SPUdeS/blob/main/LICENSE) license.
