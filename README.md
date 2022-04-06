@@ -68,5 +68,8 @@ On the board, the led and the button can be found. The led is connected to the P
 
 <br>The LED needs resistances. For the red one a 220 ohms, for the green one a 100 ohms and for the blue one a 100 ohms also is needed.
 The LED's pins in the Rasberry Pi are 17 for the red one, 27 for the green one and 22 for the blue one.
+
+<br>For further reference, an [image of the Raspberry Pi and it's installation](https://ozeki.hu/p_3047-how-to-setup-a-rgb-led-on-raspberry-pi.html) can be found.
+
 ## <a id="License"></a>License
 This project is licenced under a  [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/SPUdeS/SPUdeS/blob/main/LICENSE) license.
