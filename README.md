@@ -17,7 +17,7 @@ The conception of the [robotic arm](https://github.com/ClanDesDindesLibres2/Robo
 Each part of the robotic arm is printed in plastic with a **3D printer**. <br>
 Two different types of motors are used with this robotic arm. Both are **Dynamixel X-Series**, XL430-W250 and XM430-W350.
 * All parts to print can be found in the [arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/Arm2.0) folder.
-* To assemble the arm, follow the [instruction manual](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Assembly%20manual.pdf).
+* To assemble the arm, follow the [instruction manual](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Arm%20assembly%20and%20modification%20guide.pdf)
 #### Gripper
 The gripper is put at the end of the robotic arm. His purpose is to **pickup chess pieces**. <br>
 The conception of the [gripper](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/gripper/Assembly.SLDASM) is made in **SolidWorks**. <br>
