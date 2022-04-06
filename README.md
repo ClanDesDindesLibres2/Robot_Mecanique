@@ -63,9 +63,7 @@ The circuit of switches is located below the top of the chessboard. To achieve t
 On the board, the led and the button can be found. The led is connected to the Pi and the button is connected to the Arduino.
 * Parts to acquire:
   * LED RGB
-  * Resistances:
-     -Two times 100 ohms
-     -200 ohms
+  * Resistances: 2 X 100 Ohms & 1 X 200 Ohms
   * Miniature tactile switch 6X6X6mm
 The LED needs resistances. For the red one a 220 ohms, for the green one a 100 ohms and for the blue one a 100 ohms also is needed.
 The LED's pins in the Rasberry Pi are 17 for the red one, 27 for the green one and 22 for the blue one.
