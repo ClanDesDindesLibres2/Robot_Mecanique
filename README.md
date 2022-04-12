@@ -20,15 +20,16 @@ Two different types of motors are used with this robotic arm. Both are **Dynamix
 * To assemble the arm, follow the [instruction manual](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Arm%20assembly%20and%20modification%20guide.pdf)
 #### Gripper
 The gripper is put at the end of the robotic arm. His purpose is to **pickup chess pieces**. <br>
-The conception of the [gripper](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/gripper/Assembly.SLDASM) is made in **SolidWorks**. <br>
+The conception of the [gripper](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm%20Solidworks/Bras-Robot/Gripper) is made in **SolidWorks**. <br>
 Each part of the gripper is printed in plastic with a **3D printer**. <br>
 The gripper uses one motor: a **servor motor**.
-* All parts to print can be found in the [gripper](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm_SolidWorks/gripper) folder.
-
+* All parts to print can be found in the [gripper](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Mechanical/Arm%20Solidworks/Bras-Robot/Gripper) folder.
 #### Wooden Box
 * The pieces are cut from a 1/8 inch board with a laser cutter.
 * The top and the sides of the box are cut with the file [WoodenBox_robot_base](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/WoodenBox/WoodenBox_robot_base.svg)
 * The different pieces fit together and are glued together using wood glue 
+### 1.2- Electrical parts of the robotic arm
+#### Robot's motor 
 
 ## 2- Chessboard
 ### 2.1- Mechanical parts of the chessboard
