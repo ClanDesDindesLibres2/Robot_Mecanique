@@ -58,7 +58,7 @@ The circuit of switches is located below the top of the chessboard. To achieve t
   * 100 Diodes: DIODE GEN PURP 400V 1A D041, DIODES INCORPORATED (VA)/ 1N4936-T
   * 32 Magnets 8mm dia.X 3mm
   * Glue gun
-* To assemble the circuit, follow the electrical [plan](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Electrical/Board/Circuit_switches.ms14)
+* To assemble the circuit, follow the electrical [plan](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/tree/main/Electrical/Board)
 #### Button and RGB LED
 On the board, the led and the button can be found. The led is connected to the Pi and the button is connected to the Arduino.
 * Parts to acquire:
