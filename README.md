@@ -30,6 +30,11 @@ The gripper uses one motor: a **servor motor**.
 * The different pieces fit together and are glued together using wood glue 
 ### 1.2- Electrical parts of the robotic arm
 #### Robot's motor 
+The code for the motors is run in Arduino IDE and then executed with the OpenCR card. The Dynamixel Workbench library is needed to move the motors and the board OpenCR librairy is needed to convert the Arduino code to OpenCR. 
+* Parts to acquire:
+  * 2X motors: Dynamixels XM430-W350
+  * 1X motor: Dynamixel 2XL430-W250
+These motors are part of the assemble guide linked above for the robotic arm.
 
 ## 2- Chessboard
 ### 2.1- Mechanical parts of the chessboard
