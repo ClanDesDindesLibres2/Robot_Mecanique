@@ -5,6 +5,7 @@ Our project aims to **create a robotic chess opponent**. <br> To achieve this, a
    - [Arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#arm)
    - [Gripper](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#gripper)
    - [Wooden Box](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#wooden-box)
+   - [Motors](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/README.md#12--electrical-parts-of-the-robotic-arm)
 - [Chess Board](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#2--chessboard)
      - [Wooden Box](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#wooden-box-1)
      - [Drawer](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#drawer)
@@ -34,7 +35,8 @@ The code for the motors is run in Arduino IDE and then executed with the OpenCR 
 * Parts to acquire:
   * 2X motors: Dynamixels XM430-W350
   * 1X motor: Dynamixel 2XL430-W250
-These motors are part of the assemble guide linked above for the robotic arm.
+
+<br>These motors are part of the assemble guide linked above for the robotic arm.
 
 ## 2- Chessboard
 ### 2.1- Mechanical parts of the chessboard
